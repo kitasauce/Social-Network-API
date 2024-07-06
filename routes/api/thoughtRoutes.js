@@ -3,13 +3,7 @@ const router = require("express").Router();
 
 // Imports functions written in thoughtController.js file
 const {
-  getThoughts,
-  getThought,
-  createThought,
-  updateThought,
-  deleteThought,
-  addReaction,
-  deleteReaction,
+  getThoughts, getThought, createThought, updateThought, deleteThought, addReaction, deleteReaction,
 } = require("../../controllers/thoughtController");
 
 // Route -> http://localhost:3001/api/thoughts
