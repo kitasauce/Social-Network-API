@@ -9,13 +9,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/kitasauce/Social-Network-API"
+      "url": "git+https://github.com/kitasauce/Social-Network-API.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/kitasauce/Social-Network-API"
+      "url": "https://github.com/kitasauce/Social-Network-API#readme"
     },
     "homepage": "",
     "dependencies": {
